@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AWS<br>👯 I’m looking to collaborate on On  Full Stack Development AND AWS Cloud Careers<br>🌱 I’m currently learning Embedded Systems<br>💬 Ask me about Anything.<br>
+🔭 I’m currently working on AWS<br>👯 I’m looking to collaborate on On  Full Stack Development AND AWS Cloud Careers<br>🌱 I’m currently Perparing For AWS_Solution Architect Certfication  <br>💬 Ask me about Anything.<br>
 
 
 # 💻 Tech Stack:
